@@ -2,5 +2,3 @@
 .idea/
 .ruby-version
 .ruby-gemset
-node_modules
-.npm-debug.log
